@@ -1,0 +1,6 @@
+Nome: Vitor Rodrigues de Marques
+RA: 1510026129
+Curso: Ciência da Computação 8º Semestre
+
+
+Ao trabalhar em um grande e-commerce utilizávamos um micro-serviço para identificar o cep do cliente através do ip, foi tomada essa decisão devido a necessidade de escalar o serviço em dias de promoções como a black friday, pois de uma hora para outra o site chegava a receber 10k de visitantes simultâneos, mas em dias normais o fluxo era de 1k de usuários, então com a implementação desse micro-serviço conseguimos atender a necessidade de escala do sistema.
